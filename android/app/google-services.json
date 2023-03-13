@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "640078631538",
+    "firebase_url": "https://toolforall-9228b-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "toolforall-9228b",
+    "storage_bucket": "toolforall-9228b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640078631538:android:d11131077249f7f731e8eb",
+        "android_client_info": {
+          "package_name": "com.example.toolforall_group08_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640078631538-rqoqf30jm1bqai0bn4j54k32r4adr0vc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtjPfIXklnM-jpppTh78mcOphCUmsfMIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640078631538-rqoqf30jm1bqai0bn4j54k32r4adr0vc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
