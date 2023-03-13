@@ -1,4 +1,4 @@
-# toolforall_group08_project
+# Tool for All Mobile Project
 DVA232 Mobile Applications Group-8 project proposal
 Team members:
 Hagverdi Ibrahimli
